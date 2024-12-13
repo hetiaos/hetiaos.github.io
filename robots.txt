@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://suana.github.com/sitemap.xml
-Sitemap: https://suana.github.com/baidusitemap.xml
+Sitemap: https://zhebinm.github.com/sitemap.xml
+Sitemap: https://zhebinm.github.com/baidusitemap.xml
